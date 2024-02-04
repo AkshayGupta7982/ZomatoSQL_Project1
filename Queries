@@ -1,4 +1,5 @@
 
+
 CREATE database Zomato_Project
 CREATE TABLE goldusers_signup(userid integer
 ,gold_signup_date date); 
